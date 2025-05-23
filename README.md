@@ -4,7 +4,7 @@ Hi there! I'm Sachin Kumar (Gitfauzi) , a passionate and curious learner with a 
 I enjoy building projects that make life easier, automate boring stuff, or just bring ideas to life.
 
 I'm currently focused on:
-- 🧠 Sharpening my Java and Python skills  
+- 🧠 Sharpening my Python ,SQL and Machine Learning skills  
 - 📊 Learning more about data analysis and data science  
 - 🧪 Exploring new frameworks and contributing to open-source
 
